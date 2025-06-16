@@ -87,7 +87,7 @@ class BoardServiceImplTest {
     // 게시글 삭제 테스트
     @Test
     public void delete() {
-        Long testNo = 11L;
+        Long testNo = 10L;
 
         // 삭제 전 존재 확인
         assertDoesNotThrow(() -> service.get(testNo));
