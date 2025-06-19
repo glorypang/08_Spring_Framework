@@ -1,4 +1,5 @@
-translate/
+openweather.properties
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -10,25 +11,12 @@ build/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-*.iml
 *.iws
+*.iml
 *.ipr
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
-### Java ###
-*.class
-*.jar
-*.war
-*.ear
-
-### log ###
-*.log
-
-### 임시파일 ###
-*.tmp
-*.wsp
 
 ### Eclipse ###
 .apt_generated
@@ -54,5 +42,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45668dd9-a0a5-4b66-b749-18d954c2438c" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLegacy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLegacy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLegacy/src/main/java/org/scoula/config/ServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLegacy/src/main/java/org/scoula/config/ServletConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLegacy/src/main/java/org/scoula/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLegacy/src/main/java/org/scoula/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/controller/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/controller/WeatherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/dto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/dto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/dto/WeatherDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardapi/src/main/java/org/scoula/weather/dto/WeatherDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ex04/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/config/RootConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/config/RootConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/mapper/TimeMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/mapper/TimeMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/persistence/JDBCTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex04/src/test/java/org/scoula/persistence/JDBCTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "glorypang"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/glorypang/08_Spring_Framework.git",
+    "accountId": "e7f35c13-5938-4341-8f1b-580e50c35b60"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2yhkM395DIjtgAEG6ePmWmS6LuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="45668dd9-a0a5-4b66-b749-18d954c2438c" name="변경" comment="" />
+      <created>1750294143241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750294143241</updated>
+      <workItem from="1750294143846" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
